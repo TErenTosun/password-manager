@@ -18,5 +18,3 @@ To retrieve your password from the database enter the domain of the site your ac
 The program searches the database and if it finds an entry with that domain name, it returns your account information.
 
 To compile, just run make and it should compile.
-# password-manager git init git commit -m first commit git branch -M main git remote add origin https://github.com/TarikEren/password-manager.git git push -u origin main
-# password-manager
